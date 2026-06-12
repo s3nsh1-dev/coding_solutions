@@ -36,3 +36,9 @@ console.log(obj1.hasDuplicate([1, 2, 3, 3, 5, 6]));
 console.log(obj1.hasDuplicate([-2, -1, 0, 1, 2, -1]));
 console.log(obj1.hasDuplicate([-2, -1, 0, 1, 2]));
 ```
+
+### Complexity
+
+- **Time Complexity:** $O(n)$
+- **Space Complexity:** $O(n)$
+
